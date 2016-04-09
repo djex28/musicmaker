@@ -1,0 +1,6 @@
+package model;
+
+public enum TimeSignature {
+	
+	FOUR_FOUR, THREE_FOUR, TWO_FOUR, FIVE_FOUR, SIX_EIGHT, NINE_EIGHT, TWELVE_EIGHT, SEVEN_EIGHT;
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1">
+		<accessrules>
+			<accessrule kind="accessible" pattern="javafx/scene/media/**"/>
+			<accessrule kind="accessible" pattern="javax/sound/sampled/**"/>
+		</accessrules>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Drew/Downloads/jmf-2_1_1e-alljava"/>
+	<classpathentry kind="lib" path="C:/Users/Drew/Downloads/jlayer1.0.1/JLayer1.0.1/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/projects/MusicMaker/lib/gson-2.2.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
